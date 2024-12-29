@@ -1,0 +1,12 @@
+# config/trading_config.yml
+api_key: "your_api_kye"
+api_secret: "your_api_secret"
+max_capital: 1000000
+trading_cost: 0.1
+min_open_interval: 10
+max_position_size: 0.005
+max_total_positions: 0.9
+basis_history_size: 10000
+websocket_timeout: 60
+max_retries: 3
+log_level: "INFO"
